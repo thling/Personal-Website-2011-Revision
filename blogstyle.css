@@ -1,0 +1,34 @@
+/* Fonts */
+@font-face {font-family: gorgeousPrint ; src: url('fonts/IMFeNit28P.ttf')}
+@font-face {font-family: mako ; src: url('fonts/Mako-Regular.ttf')}
+@font-face {font-family: marvel ; src: url('fonts/Marvel-Regular.ttf')}
+@font-face {font-family: micrhoma ; src: url('fonts/Michroma.ttf')}
+@font-face {font-family: ovo ; src: url('fonts/Ovo-Regular.ttf')}
+@font-face {font-family: girlNextDoor ; src: url('fonts/TheGirlNextDoor.ttf')}
+@font-face {font-family: hip ; src: url('fonts/WaitingfortheSunrise.ttf')}
+@font-face {font-family: yellowtail ; src: url('fonts/Yellowtail-Regular.ttf')}
+@font-face {font-family: zeyada ; src: url('fonts/Zeyada.ttf')}
+
+.customnavbar {
+	list-style-type:none;
+	padding-top:12px;
+	padding-left:0px;
+	padding-bottom:0px;
+	margin-top:-38px;
+	margin-left:0px;
+	margin-right:0px;
+	font-size:13px;
+	font-family:mako;
+	background-color:#303030;
+	overflow: hidden;
+	height:22px;
+}
+
+.customlist {
+	color:#b0b0b0;
+	display:block;
+	font-family:'Trebuchet MS';
+	text-decoration:none;
+	padding-left:6px;
+	padding-right:6px;
+}
